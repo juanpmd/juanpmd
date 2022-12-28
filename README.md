@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋 My name is Juan Pablo Mejia
 
-<!--
-**juanpmd/juanpmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack developer and designer with over 10 years of experience building web applications. Co-Founder of Global Pioneers where I develop tools with great design, quality, performance, security, and unique user experience.
 
-Here are some ideas to get you started:
+I have worked in different companies that have delivered great products to millions of users around the world. I've worked with technologies like React, Meteor, JavaScript, CSS, Next.js, Python, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 [company][company] **|** 
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+▶️ [youtube][youtube] **|** 
+📦 [npm][npm] **|** 
+👔 [linkedin][linkedin]
+
+[company]: https://www.globalpioneers.io
+[website]: https://www.codifytools.com
+[twitter]: https://twitter.com/juanpmd
+[youtube]: https://www.youtube.com/codifytools
+[linkedin]: https://www.linkedin.com/in/jpmejiaduque/
+[npm]: https://www.npmjs.com/~juanpmd
