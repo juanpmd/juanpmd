@@ -2,7 +2,7 @@
 
 I'm a Full Stack developer and designer with over 10 years of experience building web applications. Co-Founder of Global Pioneers where I develop tools with great design, quality, performance, security, and unique user experience.
 
-I have worked in different companies that have delivered great products to millions of users around the world. I've worked with technologies like React, Meteor, JavaScript, CSS, Next.js, Python, and more.
+I have worked in different companies that have delivered outstanding products to millions of users worldwide. I've worked with technologies like React, Meteor, JavaScript, CSS, Next.js, Python, and more.
 
 🏢 [company][company] **|** 
 🏡 [website][website] **|** 
